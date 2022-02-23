@@ -1,4 +1,4 @@
-4775
+4763
 105C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\runtime-service-worker\package.json132893230624801027 0
 79C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\csso\lib\index.js132893230632230108 0
 83C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\css-what\lib\index.js132893230613327720 0
@@ -63,7 +63,7 @@
 87C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\json-source-map\README.md132893230620751784 0
 105C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\workers\lib\process\ProcessChild.js132893230631777143 0
 82C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\terser\dist\.gitkeep132893230612246168 0
-53C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist132899961230819582 1
+53C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist132900740744668971 1
 92C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\svgo\plugins\removeComments.js132893230634162550 0
 104C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\postcss-selector-parser\dist\util\index.js132893230624940916 0
 137C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-x64-gnu.node132893230640312326 0
@@ -74,7 +74,7 @@
 61C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules132895934557160168 1
 66C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\package-lock.json132895934559179398 0
 87C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\htmlnano\docs\sidebars.js132893230632589823 0
-61C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\package.json132899964228549448 0
+61C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\package.json132900742312200763 0
 93C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\source-map-js\lib\base64-vlq.js132893230614101067 0
 88C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\nan\nan_callbacks_12_inl.h132893230615838456 0
 107C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\referrer-policy.js132893230654315199 0
@@ -240,7 +240,7 @@
 78C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\lmdb\external.js132893230642730448 0
 113C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\core\test\fixtures\custom-format-infer-type132893230646211497 1
 120C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\terser\node_modules\source-map\lib\source-map-generator.js132893230628696557 0
-80C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist\01-gallery.53390864.js.map132899954676247333 0
+80C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist\01-gallery.53390864.js.map132900740744619011 0
 101C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\node-resolver-core\test\fixture132893230640322317 1
 80C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\dotenv\lib\main.js132893230623142313 0
 80C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\json5\lib\index.js132893230614795558 0
@@ -762,7 +762,7 @@
 78C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\nan\CHANGELOG.md132893230613197823 0
 93C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\css-tree\lib\tokenizer\const.js132893230629028742 0
 106C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\utility-types\dist\functional-helpers.js.map132893230621623489 0
-82C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist\03-feedback.ba2d0753.css.map132899954676207374 0
+82C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist\03-feedback.ba2d0753.css.map132900740744609021 0
 100C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\type-fest\source\iterable-element.d.ts132893230629318515 0
 76C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\yaml\README.md132893230636365957 0
 114C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\runtime-js\lib\helpers\worker\wasm-loader.js132893230634322425 0
@@ -782,7 +782,7 @@
 98C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\diagnostic\lib\diagnostic.js132893230627930278 0
 79C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\yaml\package.json132893230636216076 0
 87C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\util-deprecate\History.md132893230616332196 0
-77C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist\01-gallery.101ee4ef.css132899954676087455 0
+77C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist\01-gallery.101ee4ef.css132900740744409223 0
 74C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\yaml\pair.js132893230629379251 0
 104C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\postcss-selector-parser\dist\tokenTypes.js132893230631610745 0
 96C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\css-tree\lib\syntax\node\Number.js132893230639812707 0
@@ -1002,7 +1002,7 @@
 107C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\css-crisp-edges.js132893230642270801 0
 81C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\picocolors\types.ts132893230617686634 0
 86C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\xxhash-wasm\package.json132893230619362870 0
-78C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist\02-video.a74b541c.js.map132899954676247333 0
+78C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist\02-video.a74b541c.js.map132900740744609021 0
 93C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\css-tree\lib\syntax\node\Url.js132893230642011003 0
 118C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\posthtml-include\node_modules\htmlparser2\lib\index.d.ts132893252354087803 0
 86C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\.bin\node-gyp-build-test132893230682447290 0
@@ -1311,7 +1311,7 @@
 78C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\.bin\detect-libc132893230682377343 0
 76C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\source-map\lib132893230623861754 1
 102C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\transformer-js\native-browser.js132893230628918830 0
-64C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist\index.html132899954676087455 0
+64C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist\index.html132900740744409223 0
 78C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\terser\lib\utils132893230632720584 1
 91C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\terser\lib\compress\common.js132893230630593428 0
 109C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\transformer-posthtml\lib\loadPlugins.js132893230620095481 0
@@ -1578,7 +1578,7 @@
 88C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\simplelightbox\gulpfile.js132893293607616061 0
 84C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\simplelightbox\LICENSE132893293602086164 0
 100C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\postcss\node_modules\nanoid\non-secure132893230633290136 1
-67C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist\02-video.html132899954676207374 0
+67C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist\02-video.html132900740744409223 0
 89C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\simplelightbox\package.json132893293608696769 0
 97C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\postcss-merge-longhand\src\lib\decl132893230631420892 1
 86C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\@swc\helpers\lib\_set.js132893230635322708 0
@@ -2117,7 +2117,6 @@
 96C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\postcss-discard-comments\README.md132893230619372861 0
 99C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\postcss-discard-comments\src\index.js132893230618607324 0
 76C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\lmdb\README.md132893230644822564 0
-75C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist\index.0641b553.js.map132893246946635935 0
 111C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\postcss-discard-comments\src\lib\commentParser.js132893230615728545 0
 112C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\chacha8.h132893230640722006 0
 97C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\meter.js132893230652296764 0
@@ -2305,7 +2304,6 @@
 76C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\parcel\LICENSE132893230627310608 0
 103C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\text-stroke.js132893230656073838 0
 81C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\parcel\package.json132893230630683352 0
-72C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist\index.101ee4ef.css132893246946585961 0
 78C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\parcel\README.md132893230630873203 0
 93C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\workers\src\cpuCount.js132893230628526692 0
 87C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\parcel\src\.eslintrc.json132893230630513489 0
@@ -2730,7 +2728,6 @@
 113C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_load.1132893230631966993 0
 109C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\createimagebitmap.js132893230641161661 0
 113C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_stat.1132893230632180141 0
-80C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist\01-gallery.75f1184b.js.map132893261586409757 0
 113C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_stat.c132893230635252761 0
 111C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest2.c132893230638731569 0
 138C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.win32-x64-msvc.node132893230641731222 0
@@ -2775,7 +2772,7 @@
 89C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\json-source-map\.travis.yml132893230619013145 0
 85C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\json-source-map\LICENSE132893230620012622 0
 88C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\dist\unpacker132893230654325193 1
-81C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist\01-gallery.7d68834f.css.map132899954676087455 0
+81C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist\01-gallery.7d68834f.css.map132900740744609021 0
 90C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\json-source-map\package.json132893230617576714 0
 99C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\csso\lib\restructure\prepare\index.js132893230632980379 0
 97C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\const.js132893230640761978 0
@@ -3210,7 +3207,6 @@
 96C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\css-tree\lib\common\TokenStream.js132893230641931064 0
 86C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\css-tree\dist\csstree.js132893230632790528 0
 90C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\commander\typings\index.d.ts132893230630503495 0
-76C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist\01-gallery.75f1184b.js132893261586309827 0
 79C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\cache\src132893230628746519 1
 84C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\css-tree\data\index.js132893230636455890 0
 86C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\css-tree\data\patch.json132893230642310774 0
@@ -4391,7 +4387,7 @@
 91C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\optimizer-cssnano\lib132893230627630360 1
 91C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\optimizer-cssnano\src132893230628716547 1
 111C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\optimizer-cssnano\lib\CSSNanoOptimizer.js132893230627940272 0
-81C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist\03-feedback.5440b4f4.js.map132899961230799590 0
+81C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist\03-feedback.5440b4f4.js.map132900740744609021 0
 96C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\node-resolver-core\LICENSE132893230616372484 0
 92C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\node-resolver-core\src132893230637627051 1
 93C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\node-resolver-core\test132893230638462529 1
@@ -4736,7 +4732,7 @@
 109C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\@babel\helper-validator-identifier\lib\index.js132893230614685631 0
 111C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\@babel\helper-validator-identifier\lib\keyword.js132893230615518705 0
 83C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\@babel\code-frame\lib132893230614020785 1
-69C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist\01-gallery.html132899954676207374 0
+69C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist\01-gallery.html132900740744409223 0
 92C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\@babel\code-frame\package.json132893230614655658 0
 92C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\@babel\code-frame\lib\index.js132893230614101067 0
 83C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\.bin\browserslist.cmd132893230682367353 0
@@ -4755,22 +4751,14 @@
 71C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\.bin\svgo132893230682417311 0
 75C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\.bin\svgo.cmd132893230682397328 0
 73C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\.bin\terser132893230682397328 0
-81C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist\01-gallery.101ee4ef.css.map132899954676087455 0
-76C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist\01-gallery.53390864.js132899954676207374 0
-77C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist\01-gallery.7d68834f.css132899954676087455 0
-74C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist\02-video.51281577.js132895103940899209 0
-78C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist\02-video.51281577.js.map132895103940909200 0
-74C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist\02-video.8cac5593.js132893300189680809 0
-78C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist\02-video.8cac5593.js.map132893300189680809 0
-74C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist\02-video.a74b541c.js132899954676207374 0
-77C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist\03-feedback.3aeecb8f.js132896022074509313 0
-81C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist\03-feedback.3aeecb8f.js.map132896022074509313 0
-77C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist\03-feedback.5440b4f4.js132899961230779606 0
-78C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist\03-feedback.ba2d0753.css132899954676207374 0
-70C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist\03-feedback.html132899954676087455 0
-79C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist\goit-js-hw-08.59712999.js132899954676227351 0
-83C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist\goit-js-hw-08.59712999.js.map132899954676257321 0
-71C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist\index.0641b553.js132893246946585961 0
-76C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist\index.101ee4ef.css.map132893246946585961 0
+81C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist\01-gallery.101ee4ef.css.map132900740744609021 0
+76C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist\01-gallery.53390864.js132900740744489112 0
+77C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist\01-gallery.7d68834f.css132900740744409223 0
+74C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist\02-video.a74b541c.js132900740744489112 0
+77C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist\03-feedback.5440b4f4.js132900740744409223 0
+78C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist\03-feedback.ba2d0753.css132900740744409223 0
+70C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist\03-feedback.html132900740744409223 0
+79C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist\goit-js-hw-08.59712999.js132900740744489112 0
+83C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\dist\goit-js-hw-08.59712999.js.map132900740744619011 0
 66C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\.github\workflows132893252313318166 1
 77C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\.github\workflows\deploy.yml132893252313541456 0

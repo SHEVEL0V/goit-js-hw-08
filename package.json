@@ -6,11 +6,11 @@
   "homepage": "https://shevel0v.github.io/goit-js-hw-08/",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SHEVEL0V/goit-js-hw-08"
+    "url": "git+https://github.com/SHEVEL0V/goit-js-hw-08.git"
   },
   "keywords": [],
   "author": "Andrey Shevelov <ashevelevmti@gmail.com>",
