@@ -74,7 +74,7 @@
 61C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules132895934557160168 1
 66C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\package-lock.json132895934559179398 0
 87C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\htmlnano\docs\sidebars.js132893230632589823 0
-61C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\package.json132900742312200763 0
+61C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\package.json132900753900694701 0
 93C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\source-map-js\lib\base64-vlq.js132893230614101067 0
 88C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\nan\nan_callbacks_12_inl.h132893230615838456 0
 107C:\Users\shevelov\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\referrer-policy.js132893230654315199 0
