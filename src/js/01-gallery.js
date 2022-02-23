@@ -18,9 +18,9 @@ function addItemGallery() {
 
 galleryEl.insertAdjacentHTML('beforeend', addItemGallery(galleryItems));
 
-new SimpleLightbox('.gallery a', {
-  captions: true,
-  captionsData: 'alt',
-  captionPosition: 'bottom',
-  captionDelay: 250,
-});
+// new SimpleLightbox('.gallery a', {
+//   captions: true,
+//   captionsData: 'alt',
+//   captionPosition: 'bottom',
+//   captionDelay: 250,
+// });
