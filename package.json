@@ -2,11 +2,10 @@
   "name": "goit-js-hw-08",
   "version": "1.1.0",
   "description": "home work 8",
-  "main": "index.js",
   "homepage": "https://shevel0v.github.io/goit-js-hw-08/",
   "scripts": {
-    "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
+    "dev": "parcel src/index.html --open",
+    "build": "parcel build src/index.html --public-url /goit-js-hw-08/"
   },
   "repository": {
     "type": "git",
