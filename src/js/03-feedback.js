@@ -28,16 +28,17 @@ function reboot() {
 function submitForm(e) {
   e.preventDefault();
   const { email, message } = e.currentTarget.elements;
+  if (email.value !== '' || message.value !== '') {
+    const formData = {
+      email: email.value,
+      message: message.value,
+    };
 
-  const formData = {
-    email: email.value,
-    message: message.value,
-  };
+    console.log(formData);
 
-  console.log(formData);
-
-  e.currentTarget.reset();
-  localStorage.removeItem('feedback-form-state');
+    e.currentTarget.reset();
+    localStorage.removeItem('feedback-form-state');
+  }
 }
 
 formEl.addEventListener(
