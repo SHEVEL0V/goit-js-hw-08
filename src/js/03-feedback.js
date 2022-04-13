@@ -1,13 +1,23 @@
 import throttle from 'lodash.throttle';
 
 const formEl = document.querySelector('.feedback-form');
+const timeThrottle = 500;
+
+formEl.addEventListener('submit', submitForm);
+
+document.addEventListener('DOMContentLoaded', reboot);
+
+formEl.addEventListener(
+  'input',
+  throttle(e => {
+    messageInputLokSlor(e);
+  }, timeThrottle),
+);
 
 function messageInputLokSlor(e) {
   e.preventDefault();
-
   if (e.currentTarget) {
     const { email, message } = e.currentTarget.elements;
-
     const formDataLocalSt = {
       email: email.value,
       message: message.value,
@@ -28,7 +38,7 @@ function reboot() {
 function submitForm(e) {
   e.preventDefault();
   const { email, message } = e.currentTarget.elements;
-  if (email.value !== '' || message.value !== '') {
+  if (email.value && message.value) {
     const formData = {
       email: email.value,
       message: message.value,
@@ -40,14 +50,3 @@ function submitForm(e) {
     localStorage.removeItem('feedback-form-state');
   }
 }
-
-formEl.addEventListener(
-  'input',
-  throttle(e => {
-    messageInputLokSlor(e);
-  }, 500),
-);
-
-formEl.addEventListener('submit', submitForm);
-
-document.addEventListener('DOMContentLoaded', reboot);
