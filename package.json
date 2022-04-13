@@ -220,7 +220,7 @@
     "safer-buffer": "^2.1.2",
     "saxes": "^3.1.11",
     "semver": "^5.7.1",
-    "simplelightbox": "^2.10.2",
+    "simplelightbox": "^2.10.3",
     "source-map": "^0.6.1",
     "source-map-js": "^1.0.2",
     "source-map-support": "^0.5.21",
