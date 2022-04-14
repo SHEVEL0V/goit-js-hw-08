@@ -2,9 +2,9 @@
   "name": "goit-js-hw-08",
   "version": "1.0.0",
   "description": "",
-  "source": "src/index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
-    "dev": "parcel --open",
+    "dev": "parcel src/*.html --open",
     "build": "parcel build src/*.html  --dist-dir=docs"
   },
   "repository": {
